@@ -30,24 +30,3 @@ Pada terminal, jalankan command:
 npx patch-package native-base
 ```
 
-## Instalasi & Setup React Navigation
-
-Step 1:
-Masuk ke direktori project yang telah dibuat, kemudian install `React Navigation`
-
-```
-npm install @react-navigation/native
-```
-
-```
-npm install @react-navigation/native-stack
-
-```
-
-```
-npm install @react-navigation/bottom-tabs
-```
-
-```
-npx expo install react-native-screens react-native-safe-area-context
-```

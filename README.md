@@ -1,5 +1,5 @@
 # MahasiswakuITTS
-Aplikasi Career Development Center 
+Aplikasi Career Development Center ini memudahkan untuk mencari perkerjaan dan informasi magang
 
 Step 1:
 Install `NativeBase` dan dependencies nya dengan mengeksekusi command berikut ini pada terminal
